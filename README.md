@@ -43,6 +43,7 @@ las sustituciones de nucleótido corresponden a cambios
 
 ***11.*** ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos? 
 Sí, existen 8 ortólogos respecto al gen elegido en otras especies, ejemplo: orangután, oso polar, chinchilla.etc...
+
 ***12.*** ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos? [1]
 No se conocen paralògos pero  sì se conocen pseudogenes como   HBH1; HBHP.
 
