@@ -41,9 +41,9 @@ Existen hasta el momento  901 variantes respecto al gen estas son de : nucleóti
 10. ¿Las sustituciones (i.e. cambio de un nucleótido) corresponden a cambios sinónimos o no sinónimos? 
 las sustituciones de nucleótido corresponden a cambios 
 
-11. ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos? 
+***11.*** ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos? 
 Sí, existen 8 ortólogos respecto al gen elegido en otras especies, ejemplo: orangután, oso polar, chinchilla.etc...
-12. ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos? [1]
+***12.*** ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos? [1]
 No se conocen paralògos pero  sì se conocen pseudogenes como   HBH1; HBHP.
 
 
@@ -85,7 +85,7 @@ los cuadrados verdes son los genes anexos involucrados en la ruta.
 [Vía específica del organismo: los recuadros verdes se hipervínculo a las entradas GENES convirtiendo los números K (identificadores KO) en identificadores génicos en la vía de referencia, lo que indica la presencia de genes en el genoma y también la integridad de la vía]
  (  https://www.kegg.jp/kegg/document/help_pathway.html )
 
-**19.**Con qué otra(s) ruta(s) se cruza la ruta metabólica que escogiste?
+**19 ** Con qué otra(s) ruta(s) se cruza la ruta metabólica que escogiste?
 Se cruza con rutas como la expresión de genes receptores y otras indirectas como rutas metabólicas de la acidosis.
 
 **20.** ¿Cuáles son las principales ontologías o dominios que conforman Gene Ontology? 
