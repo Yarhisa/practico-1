@@ -114,16 +114,20 @@ adjunto diagrama de grafico
 **23.** ¿Cuántos ítems fueron encontrados? ¿cuántos en animales? [1]
 [Se encontraron 72815 ítems y se encontraron 14,113 animales.]
 ¨(https://www.ncbi.nlm.nih.gov/nuccore )
+
 **24.** ¿Cuál es la longitud del gen? [1]
 El gen GAPDH tiene un tamaño de 1,329 pb en Danio rerio.
+
 **25.** ¿Cuál es la referencia bibliográfica más reciente? [1]
 La referencia más reciente es del 2018  provente de
  **PUBMED  29494608**
  _AUTORES Chao YJ, Wu WH, Balazova M, Wu TY, Lin J, Liu YW y Hsu YH.
   TÍTULO:La dieta de Chlorella altera el contenido de cardiolipina mitocondrial
  diferencialmente en órganos de Danio rerio (zebrafish) analizados por un enfoque lipodimico._
+ 
 **26.** ¿Cuál es el número de acceso? 
  El número de referencia por NCBI : **NM_001115114.1**
+ 
 **27.** Descarga la secuencia en formato FASTA y agrégala a tu informe. 
 Se adjunta link de secuencia en formato FASTA. (https://www.ncbi.nlm.nih.gov/nuccore/NM_001115114.1?report=fasta)
 
